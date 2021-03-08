@@ -15,6 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 542
     y: 230
     width: 1206
@@ -30,13 +31,22 @@ MonoBehaviour:
     y: 43
     width: 1920
     height: 997
+=======
+    x: 0
+    y: 43
+    width: 1366
+    height: 685
+>>>>>>> origin/Moises_A
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
+<<<<<<< HEAD
 >>>>>>> origin/Indira
+=======
+>>>>>>> origin/Moises_A
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -57,6 +67,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
     height: 665
   m_MinSize: {x: 679, y: 492}
@@ -71,6 +82,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 117
 >>>>>>> origin/Indira
+=======
+    width: 1366
+    height: 635
+  m_MinSize: {x: 677, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
+  vertical: 0
+  controlID: 117
+>>>>>>> origin/Moises_A
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -86,6 +105,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 921
     y: 0
@@ -107,6 +127,17 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 14}
 >>>>>>> origin/Indira
+=======
+    x: 1043
+    y: 0
+    width: 323
+    height: 635
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 13}
+>>>>>>> origin/Moises_A
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &4
@@ -127,6 +158,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 228
     height: 394
   m_MinSize: {x: 201, y: 221}
@@ -143,6 +175,15 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 15}
 >>>>>>> origin/Indira
+=======
+    width: 258
+    height: 357
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+>>>>>>> origin/Moises_A
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &5
@@ -162,9 +203,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 394
     width: 921
     height: 271
+=======
+    y: 357
+    width: 1043
+    height: 278
+>>>>>>> origin/Moises_A
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -173,6 +220,7 @@ MonoBehaviour:
   - {fileID: 17}
   m_Selected: 0
   m_LastSelected: 1
+<<<<<<< HEAD
 =======
     y: 573
     width: 1531
@@ -186,6 +234,8 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 >>>>>>> origin/Indira
+=======
+>>>>>>> origin/Moises_A
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -207,6 +257,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
     height: 715
 =======
@@ -214,6 +265,11 @@ MonoBehaviour:
     height: 997
 >>>>>>> origin/Indira
   m_MinSize: {x: 875, y: 300}
+=======
+    width: 1366
+    height: 685
+  m_MinSize: {x: 875, y: 542}
+>>>>>>> origin/Moises_A
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -233,10 +289,14 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
 =======
     width: 1920
 >>>>>>> origin/Indira
+=======
+    width: 1366
+>>>>>>> origin/Moises_A
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -258,12 +318,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 695
     width: 1206
 =======
     y: 977
     width: 1920
 >>>>>>> origin/Indira
+=======
+    y: 665
+    width: 1366
+>>>>>>> origin/Moises_A
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -287,6 +352,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 921
     height: 665
   m_MinSize: {x: 403, y: 492}
@@ -297,6 +363,11 @@ MonoBehaviour:
     width: 1531
     height: 947
   m_MinSize: {x: 403, y: 492}
+=======
+    width: 1043
+    height: 635
+  m_MinSize: {x: 402, y: 492}
+>>>>>>> origin/Moises_A
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 80
@@ -321,6 +392,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 921
     height: 394
   m_MinSize: {x: 403, y: 221}
@@ -332,6 +404,12 @@ MonoBehaviour:
     height: 573
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
+=======
+    width: 1043
+    height: 357
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
+>>>>>>> origin/Moises_A
   vertical: 0
   controlID: 54
 >>>>>>> origin/Indira
@@ -351,16 +429,24 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 228
     y: 0
     width: 693
     height: 394
+=======
+    x: 258
+    y: 0
+    width: 785
+    height: 357
+>>>>>>> origin/Moises_A
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
+<<<<<<< HEAD
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &12
@@ -406,6 +492,11 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &13
 >>>>>>> origin/Indira
+=======
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &12
+>>>>>>> origin/Moises_A
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -427,6 +518,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 542
     y: 654
     width: 920
@@ -437,6 +529,12 @@ MonoBehaviour:
     width: 1530
     height: 353
 >>>>>>> origin/Indira
+=======
+    x: 0
+    y: 430
+    width: 1042
+    height: 257
+>>>>>>> origin/Moises_A
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -452,6 +550,7 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -461,17 +560,25 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\amy99\OneDrive\Documentos\MiniProyectoGitz\Miniproyectogitz
 =======
     - Assets
+=======
+    - Assets/Scenes
+>>>>>>> origin/Moises_A
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Usuario\Documents\MiniProyectoGitz\Miniproyectogitz
 >>>>>>> origin/Indira
+=======
+  m_LastProjectPath: D:\00_XP\4to_Tetra\Progra\va de nuevo\Miniproyectogitz
+>>>>>>> origin/Moises_A
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 822c0000
     m_LastClickedID: 11394
@@ -481,6 +588,11 @@ MonoBehaviour:
     m_LastClickedID: 11372
     m_ExpandedIDs: 000000006c2c000000ca9a3b
 >>>>>>> origin/Indira
+=======
+    m_SelectedIDs: 662c0000
+    m_LastClickedID: 11366
+    m_ExpandedIDs: 00000000602c000000ca9a3b
+>>>>>>> origin/Moises_A
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -509,10 +621,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000442c0000
 =======
     m_ExpandedIDs: 000000006c2c0000
 >>>>>>> origin/Indira
+=======
+    m_ExpandedIDs: 00000000602c0000
+>>>>>>> origin/Moises_A
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,12 +684,17 @@ MonoBehaviour:
     m_GridSize: 64
   m_SkipHiddenPackages: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 207
 --- !u!114 &13
 =======
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
 >>>>>>> origin/Indira
+=======
+  m_DirectoriesAreaWidth: 207
+--- !u!114 &13
+>>>>>>> origin/Moises_A
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -595,6 +716,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1463
     y: 260
     width: 284
@@ -605,6 +727,12 @@ MonoBehaviour:
     width: 388
     height: 926
 >>>>>>> origin/Indira
+=======
+    x: 1043
+    y: 73
+    width: 322
+    height: 614
+>>>>>>> origin/Moises_A
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -619,10 +747,14 @@ MonoBehaviour:
   m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &14
 =======
 --- !u!114 &15
 >>>>>>> origin/Indira
+=======
+--- !u!114 &14
+>>>>>>> origin/Moises_A
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -644,6 +776,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 542
     y: 260
     width: 227
@@ -654,17 +787,27 @@ MonoBehaviour:
     width: 378
     height: 552
 >>>>>>> origin/Indira
+=======
+    x: 0
+    y: 73
+    width: 257
+    height: 336
+>>>>>>> origin/Moises_A
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 682c0000
       m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_ExpandedIDs: 74fbffff
 =======
       m_ExpandedIDs: 48fbffff
 >>>>>>> origin/Indira
+=======
+      m_ExpandedIDs: 36e3ffff9ae3ffff52fbffff
+>>>>>>> origin/Moises_A
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -688,12 +831,17 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_WindowGUID: 4c969a2b90040154d917609493e03593
 --- !u!114 &15
 =======
   m_WindowGUID: fdb7509703862544b98250b3c0349806
 --- !u!114 &16
 >>>>>>> origin/Indira
+=======
+  m_WindowGUID: 4c969a2b90040154d917609493e03593
+--- !u!114 &15
+>>>>>>> origin/Moises_A
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -715,6 +863,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 770
     y: 260
     width: 691
@@ -731,6 +880,15 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: 5fcebc83228c9cb4baa3d08b9f8ff356
 >>>>>>> origin/Indira
+=======
+    x: 258
+    y: 73
+    width: 783
+    height: 336
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
+>>>>>>> origin/Moises_A
   m_Gizmos: 1
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -740,6 +898,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 2.6448426, y: 1.5636532, z: 5.733899}
     speed: 2
     m_Value: {x: 2.6448426, y: 1.5636532, z: 5.733899}
@@ -748,6 +907,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 7.156995, y: 3.0976367, z: -0.0954895}
 >>>>>>> origin/Indira
+=======
+    m_Target: {x: -0.9205818, y: -8.152381, z: 19.05179}
+    speed: 2
+    m_Value: {x: -0.9205818, y: -8.152381, z: 19.05179}
+>>>>>>> origin/Moises_A
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -781,10 +945,14 @@ MonoBehaviour:
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_Size: {x: 1, y: 1}
 =======
       m_Size: {x: 0.5, y: 0.5}
 >>>>>>> origin/Indira
+=======
+      m_Size: {x: 1, y: 1}
+>>>>>>> origin/Moises_A
     zGrid:
       m_Fade:
         m_Target: 0
@@ -797,6 +965,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -0.08207763, y: -0.85256106, z: 0.14091867, w: -0.4965484}
     speed: 2
@@ -814,6 +983,15 @@ MonoBehaviour:
     speed: 2
     m_Value: 12.361186
 >>>>>>> origin/Indira
+=======
+    m_Target: {x: 0.18429409, y: 0.49095798, z: -0.10711469, w: 0.844704}
+    speed: 2
+    m_Value: {x: 0.18429387, y: 0.49095738, z: -0.10711456, w: 0.84470296}
+  m_Size:
+    m_Target: 36.35355
+    speed: 2
+    m_Value: 38.066544
+>>>>>>> origin/Moises_A
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -839,10 +1017,14 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &16
 =======
 --- !u!114 &17
 >>>>>>> origin/Indira
+=======
+--- !u!114 &16
+>>>>>>> origin/Moises_A
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -894,12 +1076,17 @@ MonoBehaviour:
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_VBaseRangeMin: -395
     m_VBaseRangeMax: 395
 =======
     m_VBaseRangeMin: -384.5
     m_VBaseRangeMax: 384.5
 >>>>>>> origin/Indira
+=======
+    m_VBaseRangeMin: -384.5
+    m_VBaseRangeMax: 384.5
+>>>>>>> origin/Moises_A
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -917,6 +1104,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       y: 0
       width: 1532
       height: 790
@@ -929,6 +1117,13 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 384.5}
 >>>>>>> origin/Indira
+=======
+      y: 21
+      width: 1532
+      height: 769
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 766, y: 384.5}
+>>>>>>> origin/Moises_A
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -936,6 +1131,7 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -766
+<<<<<<< HEAD
 <<<<<<< HEAD
       y: -395
       width: 1532
@@ -945,6 +1141,11 @@ MonoBehaviour:
       width: 1532
       height: 769
 >>>>>>> origin/Indira
+=======
+      y: -384.5
+      width: 1532
+      height: 769
+>>>>>>> origin/Moises_A
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
@@ -954,10 +1155,14 @@ MonoBehaviour:
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &17
 =======
 --- !u!114 &18
 >>>>>>> origin/Indira
+=======
+--- !u!114 &17
+>>>>>>> origin/Moises_A
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -979,14 +1184,20 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Moises_A
     x: 2249
     y: 726.5
     width: 920
     height: 250
+<<<<<<< HEAD
 =======
     x: 8
     y: 718
     width: 1366
     height: 308
 >>>>>>> origin/Indira
+=======
+>>>>>>> origin/Moises_A
   m_ViewDataDictionary: {fileID: 0}

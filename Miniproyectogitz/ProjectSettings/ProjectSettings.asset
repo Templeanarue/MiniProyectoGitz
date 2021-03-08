@@ -5,10 +5,14 @@ PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
 <<<<<<< HEAD
+<<<<<<< HEAD
   productGUID: 72a2bcdac43b87f44929432045aaa581
 =======
   productGUID: e7d152c40ef321d49ac210fd3a7d1129
 >>>>>>> origin/Indira
+=======
+  productGUID: 9ed19fd047c46ce41bc605a997c0ef48
+>>>>>>> origin/Moises_A
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
