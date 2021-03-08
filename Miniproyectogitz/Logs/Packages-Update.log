@@ -1,8 +1,15 @@
 
+<<<<<<< HEAD
 === Sun Mar  7 18:26:57 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
+=======
+=== Sun Mar  7 18:41:34 2021
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+>>>>>>> origin/Moises_A
 
 The following packages were added:
   com.unity.collab-proxy@1.2.16
